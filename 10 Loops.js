@@ -95,3 +95,26 @@ const numbers = [1, 2, 3, 4, 5];
 numbers.forEach((number, index) => {
   console.log(`Element at index ${index}: ${number}`);
 });
+
+//create an object
+let person={name:"John",age:30};
+console.log(person);
+//accessing the properties of an object using dot notation
+console.log(person.name);
+//accessing the properties of an object using bracket notation
+console.log(person["age"]);
+
+    function staff(n,designation,salary){
+    this.name= n;
+    this.designation= designation;
+    this.salary= salary;
+}
+//create an object
+let developer=new staff('David', 'developer', 60000);
+console.log(developer);
+let emp1=new staff("John","Manager",10000);
+console.log(emp1);
+let emp2=new staff("Nasr","office",20000);
+
+console.log(emp1);
+console.log(emp2);
