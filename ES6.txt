@@ -1,0 +1,25 @@
+// // 7 JavaScript ES6 | Data Types Number, String, Boolean, Null, Undefined, Symbol
+// // 8 JavaScript ES6 | Operators Arithmetic, Logical, Bitwise, Comparison, Assignment
+// // 9 JavaScript ES6 | Functions Function Declaration, Function Expression, Arrow Functions
+// // 10 JavaScript ES6 | Object Literal, Array, Template literals
+// // 11 JavaScript ES6 | Loops For, While, Do while, Labelled Statements
+// // 12 JavaScript ES6 | Conditional If else, Switch case
+// // 13 JavaScript ES6 | Exception Handling try catch finally throw
+// // 14 JavaScript ES6 | Rest and Spread in arrays and functions
+// // 15 JavaScript ES6 | Destructuring array and object destructuring
+// // 16 JavaScript ES6 | Default parameters, rest parameter, spread operator
+// // 17 JavaScript ES6 | Classes, this keyword, super keyword
+// // 18 JavaScript ES6 | Modules Export import
+// // 19 JavaScript ES6 | Promises API then catch finally
+// // 20 JavaScript ES6 | Async Await
+// // 21 JavaScript ES6 | Error handling with try catch finally
+// // 22 JavaScript ES6 | Map Set Filter Find forEach reduce every some none
+// // 23 JavaScript ES6 | DOM Manipulation innerHTML outerHTML append prepend insertBefore insertAfter removeChild replaceChild
+// // 23 JavaScript ES6 | DOM Manipulation Event delegation
+// // 24 JavaScript ES6 | Web APIs Fetch JSON parsing XMLHttpRequest
+// // 25 JavaScript ES6 | Canvas drawing context.fillText context.strokeText
+// // 26 JavaScript ES6 | SVG manipulation document.createElementNS
+// // 27 JavaScript ES6 | Date objects new date() getTimezoneOffset toLocaleString
+// // 28 JavaScript ES6 | Regular expressions /g /i /m /y global ignoreCase multiline sticky unicode
+// // 29 JavaScript ES6 | Sorting algorithms bubble sort quick sort merge sort insertion sort selection sort
+// // 30 JavaScript ES6 | Big O notation time complexity space complexity
