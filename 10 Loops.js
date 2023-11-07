@@ -118,3 +118,17 @@ let emp2=new staff("Nasr","office",20000);
 
 console.log(emp1);
 console.log(emp2);
+//loop an object (for in loop)
+for (let key in developer){
+    console.log(key+":"+developer[key]);
+    }
+
+for(let p in emp1){
+    console.log(emp1[p]);
+}
+
+// for of loop
+let nms=['mona','omar','malak'];
+for (const nm of nms) {
+    console.log(nm);
+}
